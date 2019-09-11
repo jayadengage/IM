@@ -375,18 +375,18 @@ border-color: #3282a5;
                                                                                 <ul id="navbar-nav" class="nav navbar-nav navbar-right"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6521" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6521"><a title="What is Being Digital?" href="https://beingdigital.pro/home-1/#about-us">What is Being Digital?</a></li>
 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6523"><a title="Courses" href="https://beingdigital.pro/being-digital-courses/">Courses</a></li>
 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6524"><a title="Certifications" href="https://beingdigital.pro/certifications/">Certifications</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6525 dropdown"><a title="Library" href="#" class="dropdown-toggle" aria-haspopup="true">Library <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+<!-- <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6525 dropdown"><a title="Library" href="#" class="dropdown-toggle" aria-haspopup="true">Library <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 <ul role="menu" class=" dropdown-menu" >
     <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6526"><a title="Read Blogs" href="https://beingdigital.pro/blog/">Read Blogs</a></li>
     <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6527"><a title="Test your Knowledge" href="https://beingdigital.pro/test-your-knowledge/">Test your Knowledge</a></li>
     <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6528"><a title="Digital Marketing Tips" href="https://beingdigital.pro/digital-marketing-tips/">Digital Marketing Tips</a></li>
 </ul>
-</li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6529"><a title="Hire from us" href="https://beingdigital.pro/hire-from-us/">Hire from us</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6530"><a title="Join Us" href="https://beingdigital.pro/join-us/">Join Us</a></li>
+</li> -->
+<!-- <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6529"><a title="Hire from us" href="https://beingdigital.pro/hire-from-us/">Hire from us</a></li> -->
+<!-- <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6530"><a title="Join Us" href="https://beingdigital.pro/join-us/">Join Us</a></li> -->
 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6531"><a title="Contact" href="https://beingdigital.pro/contact/">Contact</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6532"><a title="Franchise" href="https://beingdigital.pro/franchise/">Franchise</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6533"><a title="Gallery" href="https://beingdigital.pro/gallery/">Gallery</a></li>
+<!-- <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6532"><a title="Franchise" href="https://beingdigital.pro/franchise/">Franchise</a></li> -->
+<!-- <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6533"><a title="Gallery" href="https://beingdigital.pro/gallery/">Gallery</a></li> -->
 <li class="reptro-off-canvas-trigger"><a href="#reptro-off-canvas-sidebar" id="reptro-off-canvas-trigger-button"><i class="fa fa-bars"></i></a></li></ul>                                                                           </div>
 
                                 </div>
@@ -394,7 +394,12 @@ border-color: #3282a5;
 
                                                             <div class="xt-navbar-side text-right">
                                                     <div class="reptro-header-btn">
-                                            <a class="btn btn-lg btn-fill" target="_blank" href="https://beingdigital.pro/login/">Login</a>
+                                            <a class="btn btn-lg btn-fill" target="_blank" href="http://localhost:8000/login">Login</a>
+                                    </div>
+                                            </div> 
+                                            <div class="xt-navbar-side text-right">
+                                                    <div class="reptro-header-btn">
+                                            <a class="btn btn-lg btn-fill" target="_blank" href="http://localhost:8000/register">Register</a>
                                     </div>
                                             </div> 
                               
@@ -413,19 +418,21 @@ border-color: #3282a5;
                         <nav id="mobile-menu-active" class="mobile-menu-init"><ul id="reptro_mobile_menu" class="main"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6521"><a href="https://beingdigital.pro/home-1/#about-us">What is Being Digital?</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6523"><a href="https://beingdigital.pro/being-digital-courses/">Courses</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6524"><a href="https://beingdigital.pro/certifications/">Certifications</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6525"><a href="#">Library</a>
+<!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6525"><a href="#">Library</a>
 <ul class="sub-menu">
     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6526"><a href="https://beingdigital.pro/blog/">Read Blogs</a></li>
     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6527"><a href="https://beingdigital.pro/test-your-knowledge/">Test your Knowledge</a></li>
     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6528"><a href="https://beingdigital.pro/digital-marketing-tips/">Digital Marketing Tips</a></li>
 </ul>
-</li>
+</li> -->
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6529"><a href="https://beingdigital.pro/hire-from-us/">Hire from us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6530"><a href="https://beingdigital.pro/join-us/">Join Us</a></li>
+<!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6530"><a href="https://beingdigital.pro/join-us/">Join Us</a></li> -->
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6531"><a href="https://beingdigital.pro/contact/">Contact</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6532"><a href="https://beingdigital.pro/franchise/">Franchise</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6533"><a href="https://beingdigital.pro/gallery/">Gallery</a></li>
-<li><a href="https://beingdigital.pro/login/">Log In</a></li></ul></nav>                    </div>
+<li><a href="https://beingdigital.pro/login/">Log In</a></li>
+<li><a href="https://beingdigital.pro/login/">Register</a></li>
+</ul></nav>                    </div>
                 </div>
             </div>
 

@@ -14,8 +14,10 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/student', 'Student@studentdb');
 
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/user/verify/{token}', 'Auth\RegisterController@verifyUser');
+Route::get('/logout', '\App\Http\Controllers\Auth\LoginController@logout');
